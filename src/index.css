@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+  background-color: #297EA6;
+}
+
+body {
+  background-image: url(/tv-guide-search-bar/src/assets/low-poly-grid-haikei.png);
+}

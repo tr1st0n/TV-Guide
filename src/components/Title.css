@@ -1,0 +1,13 @@
+h1 {
+    color: white;
+    font-size: 3.5rem;
+    text-transform: uppercase;
+    font-style: italic;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+h2 {
+    color: white;
+    text-transform: capitalize;
+}
